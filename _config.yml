@@ -1,0 +1,5 @@
+name: Gabriel Joel Mitchell
+permalink: /blog/:year/:month/:day/:title
+markdown: kramdown
+kramdown:
+  input: GFM
