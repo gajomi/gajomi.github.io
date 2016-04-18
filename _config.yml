@@ -3,3 +3,4 @@ permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
 kramdown:
   input: GFM
+  syntax_highlighter: rouge
